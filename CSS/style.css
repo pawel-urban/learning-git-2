@@ -1,6 +1,13 @@
 /* Header */
 .splash {
   text-align: center;
-  font-size: 36px;
+  font-size: 28px;
   background: #b2bec3;
+}
+/* Main-text */
+.main-text {
+  margin: 0 auto;
+  text-align: left;
+  border-top: 1px solid #b2bec3;
+  border-bottom: 1px solid #b2bec3;
 }
