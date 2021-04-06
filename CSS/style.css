@@ -11,3 +11,12 @@
   border-top: 1px solid #b2bec3;
   border-bottom: 1px solid #b2bec3;
 }
+/* Footer */
+.page-footer {
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 0 20px;
+  background: #242424;
+  color: #fff;
+  text-align: center;
+}
